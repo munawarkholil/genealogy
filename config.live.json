@@ -1,0 +1,31 @@
+{
+  "config": {
+    "domain": "masmun.com",
+    "salt": "7d5afdc0e4138a94544120af506d8120",
+    "isDebug": 1,
+    "isAdmin": 1,
+    "home": {
+      "public": "main/main",
+      "member": "main/main"
+    },
+    "errorReport": {
+      "telegramIds": [
+        "131236149"
+      ]
+    },
+    "notification": 1,
+    "firebase": {
+      "apiKey": "AIzaSyC9-XUf-Bm6rTjkHh5wimWzGzN6tYicosM",
+      "authDomain": "fir-chat-bd6d8.firebaseapp.com",
+      "databaseURL": "https://fir-chat-bd6d8.firebaseio.com/",
+      "storageBucket": "gs://fir-chat-bd6d8.appspot.com/"
+    },
+    "fonts": {
+      "Hind-Bold": "Hind-Bold.ttf",
+      "Hind-Light": "Hind-Light.ttf",
+      "Hind-Medium": "Hind-Medium.ttf",
+      "Hind": "Hind-Regular.ttf",
+      "Hind-SemiBold": "Hind-SemiBold.ttf"
+    }
+  }
+}

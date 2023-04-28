@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "432413198823",
+      "firebase_url": "https://fir-chat-bd6d8.firebaseio.com",
+      "project_id": "fir-chat-bd6d8",
+      "storage_bucket": "fir-chat-bd6d8.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:432413198823:android:4025e52ced117b74695542",
+          "android_client_info": {
+            "package_name": "com.masmun.genealogy"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "432413198823-8c2bp0vcbj4eakcldarkoggkvvnnmqtk.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC9-XUf-Bm6rTjkHh5wimWzGzN6tYicosM"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "432413198823-8c2bp0vcbj4eakcldarkoggkvvnnmqtk.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
